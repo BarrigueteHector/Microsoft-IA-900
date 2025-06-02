@@ -1,0 +1,46 @@
+----- Computer visión -----
+
+- Clasificación de imágenes
+- Detección de objetos
+- Segmentación semántica: los píxeles individuales de la imagen se clasifican según el objeto al que pertenecen
+- Detección, análisis y reconocimiento de caras
+- Reconocimiento óptico de caracteres (OCR) detectar y leer texto en imágenes
+
+Servicios
+- Análisis de imagen
+- Face
+- Reconocimiento óptico de caracteres
+
+----- Procesamiento del lenguaje natural -----
+
+Área de la IA que se ocupa de crear software capaz de entender el lenguaje escrito y hablado
+
+Servicios:
+- Voz de Azure AI
+- Traductor de Azure AI
+
+----- Inteligencia de documentos -----
+
+Soluciones de administren y aceleren la recopilación de datos a partie de documentos escaneados.
+
+Servicios
+- Búsqueda de Azure AI
+
+----- Servicio Azure OpenAI-----
+
+Crear soluciones de AI generativas. Solución en la nube de Microsoft para implementar, personalizar y hospedar modelos de IA generativa. Reúne lo mejor de los modelos y las API de vanguardia de OpenAI, pero con la seguridad y escalabilidad de la plataforma de nube de Azure
+
+----- Aprendizaje automático -----
+
+Supervisado
+- Regresión
+- Clasificación (binaria y multiclase)
+
+No supervisado
+- Clustering: Identifica similitudes entre observaciones en función de sus características y las agrupa en clústeres discretos. Similar a la clasificación multiclase. No hay una etiqueta de clúster previamente conocida y el algoritmo agrupa las observaciones de datos basándose exclusivamente en la similitud de las características
+
+Las observaciones se agrupan en clústeres en función de las similitudes en sus valores de datos o características
+
+Aprendizaje profundo: forma avanzada de aprendizaje automático que intenta emular el modo en que el cerebro humano aprende. La clave del aprendizaje profundo es la creación de una red neuronal artificial que simula la actividad electroquímica de las neuronas biológicas mediante el uso de funciones matemáticas
+
+Azure Machine Learning: servicio en la nube para entrenar, implementar y administrar modelos de aprendizaje automático
